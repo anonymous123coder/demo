@@ -9,4 +9,4 @@ hello world
 
 ## local 
 
-run the work.py via terminal
+run the work.py via terminal hello world how are you
