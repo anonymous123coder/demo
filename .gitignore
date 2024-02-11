@@ -1,0 +1,9 @@
+*.[oa]
+*.md
+*.swn
+*.swo
+*.swp
+.[abc]
+.([0-9])
+a/**/z
+!lib.a
